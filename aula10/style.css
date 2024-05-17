@@ -1,0 +1,12 @@
+div#area{
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: auto;
+    line-height: 200px;
+    text-align: center;
+}
